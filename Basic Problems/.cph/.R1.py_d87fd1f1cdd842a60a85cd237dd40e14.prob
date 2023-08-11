@@ -1,0 +1,1 @@
+{"name":"Local: R1","url":"e:\\Robin DSA\\Basic Problems\\R1.py","tests":[{"id":1689497761846,"input":"4\n1 4\n3 4\n4 2\n2 6","output":"NO\nYES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Robin DSA\\Basic Problems\\R1.py","group":"local","local":true}
